@@ -1,4 +1,4 @@
-module protos
+module game-protos
 
 go 1.25.2
 
