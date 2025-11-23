@@ -1,4 +1,4 @@
-module game-protos
+module github.com/v-andrianov/game-protos
 
 go 1.25.2
 
